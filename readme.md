@@ -5,5 +5,5 @@ This repo if for a course project on Coursera.  There are two parts to the proje
 1. An exponential distribution simulation exercise, and
 2. A basic inferential data analysis.
 
-mjfii
+mjfii  
 2015-01-20
