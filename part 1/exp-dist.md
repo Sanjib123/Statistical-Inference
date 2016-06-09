@@ -1,6 +1,6 @@
 # Exponential Distribution Course Project
-mjfii  
-2012-01-20  
+Sanjib Pradhan 
+2016-06-10  
 
 ### Overview:
 This course project report looks at a series of exponential distribution iterations, and compares the result set to a normal distribution and the theoretical mean and variance.  
